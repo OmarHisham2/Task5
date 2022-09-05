@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task5</string>
+    <string name="title">Fruits App</string>
+    <string name="Fruitname">Fruit Name</string>
+    <string name="fruitdescription">Fruit Description</string>
+</resources>
