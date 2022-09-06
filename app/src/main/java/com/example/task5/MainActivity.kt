@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         fruits.add(Fruits("Orange",R.drawable.orange,"Price:EGP14.75/kg\n Approx 5 pieces/kg"))
         fruits.add(Fruits("Peach",R.drawable.peach,"Price:EGP47.95/kg\nApprox 10 pieces/kg"))
         fruits.add(Fruits("Pear",R.drawable.pear,"Price:EGP14.95/kg\nApprox 4 pieces/kg"))
-        fruits.add(Fruits("Strawberry",R.drawable.strawberry,"Price:EGP4/kg\nGoods:Fresh"))
+        fruits.add(Fruits("Strawberry",R.drawable.strawberry,"Price:EGP7/kg"))
         fruits.add(Fruits("Tomato",R.drawable.tomato,"Price:EGP5.95/kg\nApprox 8 pieces/kg"))
 
 
